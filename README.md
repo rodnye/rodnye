@@ -16,6 +16,7 @@
 - [x] 🍕 Coffee and pizza addict (the perfect coding fuel!).  
 - [x] 🐧 Linux geek.  
 - [x] 🤖 Lover of web technologies, both server-side and client-side. Always eager to learn and build new things ✨.
+- [x] ⏳ Active since 2021 — from a time before LLMs and vibecoding took over! 😉
 
 <div align="center">
   <h2> <- SKILLS -> </h2>
