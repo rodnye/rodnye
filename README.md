@@ -48,6 +48,13 @@
 ---
 
 <div align="center">
+  <h2> {{ .stats }} </h2>
+</div>
+
+[![committers.top badge](https://user-badge.committers.top/cuba/rodnye.svg)](https://user-badge.committers.top/cuba/rodnye)  
+[![committers.top badge](https://user-badge.committers.top/cuba_public/rodnye.svg)](https://user-badge.committers.top/cuba_public/rodnye)
+
+<div align="center">
   <img alt="rodnye's Stats" src="profile/stats.svg">
   <img alt="rodnye's Streak" src="profile/top-langs.svg">
 </div>
