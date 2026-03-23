@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=1000&pause=1000&color=F78800&center=true&vCenter=true&width=435&lines=Hi+there!+My+name+is+Rodny+Estrada%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+Fullstack+developer+%F0%9F%8D%8A" alt="Typing SVG" />
 </div>
 
+[![committers.top badge](https://user-badge.committers.top/cuba/rodnye.svg)](https://user-badge.committers.top/cuba/rodnye)  
+[![committers.top badge](https://user-badge.committers.top/cuba_public/rodnye.svg)](https://user-badge.committers.top/cuba_public/rodnye)
+
 <div align="center">
   <h2> About Me 🍊 </h2>
 </div>
@@ -51,9 +54,6 @@
 <div align="center">
   <h2> {{ .stats }} </h2>
 </div>
-
-[![committers.top badge](https://user-badge.committers.top/cuba/rodnye.svg)](https://user-badge.committers.top/cuba/rodnye)  
-[![committers.top badge](https://user-badge.committers.top/cuba_public/rodnye.svg)](https://user-badge.committers.top/cuba_public/rodnye)
 
 <div align="center">
   <img alt="rodnye's Stats" src="profile/stats.svg">
