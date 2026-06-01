@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Rodny Estrada's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 144, Total Commits  (last year) : 1228, Total PRs: 65, Total Issues: 61, Contributed to (last year): 31</desc>
+        <title id="titleId">Rodny Estrada's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 144, Total Commits  (last year) : 1177, Total PRs: 65, Total Issues: 61, Contributed to (last year): 31</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 61.351786521937996;
+        stroke-dashoffset: 68.96791682461442;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A-
         </text>
       
         </g>
