@@ -57,7 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodnye&show_icons=true&theme=slateorange&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodnye&layout=compact&langs_count=6&theme=slateorange&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodnye&layout=compact&langs_count=6&theme=slateorange&hide_border=true&hide=html,javascript" alt="Top Langs" />
 </div>
 
 <div align="center">
