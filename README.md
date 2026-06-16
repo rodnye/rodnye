@@ -56,8 +56,12 @@
 </div>
 
 <div align="center">
-  <img alt="rodnye's Stats" src="profile/stats.svg">
-  <img alt="rodnye's Streak" src="profile/top-langs.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodnye&show_icons=true&theme=slateorange&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodnye&layout=compact&langs_count=6&theme=slateorange&hide_border=true" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodnye&theme=slateorange&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
